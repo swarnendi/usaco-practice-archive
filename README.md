@@ -28,6 +28,7 @@ This repository contains standalone C++ source files corresponding to individual
 | `gymnastics.cpp` | Cow Gymnastics |
 | `logic.cpp` | Logical Moos |
 | `blocks.cpp` | Blocks |
+| `dice.cpp` | Non Transitive Dice |
 
 *(Note: Click **"View all files"** on GitHub if additional files are added over time.)*
 
