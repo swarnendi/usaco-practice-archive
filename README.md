@@ -29,6 +29,7 @@ This repository contains standalone C++ source files corresponding to individual
 | `logic.cpp` | Logical Moos |
 | `blocks.cpp` | Blocks |
 | `dice.cpp` | Non Transitive Dice |
+| `last.cpp` | Don't Be Last! |
 
 *(Note: Click **"View all files"** on GitHub if additional files are added over time.)*
 
