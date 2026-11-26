@@ -30,6 +30,7 @@ This repository contains standalone C++ source files corresponding to individual
 | `blocks.cpp` | Blocks |
 | `dice.cpp` | Non Transitive Dice |
 | `last.cpp` | Don't Be Last! |
+| `unfunny-joke-ii` | Why Did The Cow Cross The Road II |
 
 *(Note: Click **"View all files"** on GitHub if additional files are added over time.)*
 
